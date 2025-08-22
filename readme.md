@@ -1,7 +1,3 @@
-Perfect ✅ Here’s a neat **starter README template** you can directly use in your repo:
-
----
-
 # 🚀 CP + LeetCode Streak
 
 From **20th Aug 2025**, I’m challenging myself to stay consistent with problem solving:
@@ -56,8 +52,3 @@ cp-leetcode-streak/
 
 * Solutions are organized day-wise.
 * Each day’s folder contains code + a short README with problem links & approach.
-* Goal: **Consistency > Quantity** 💪
-
----
-
-Would you like me to also add a **GitHub badge (dynamic counter)** that shows your streak automatically on the README?
