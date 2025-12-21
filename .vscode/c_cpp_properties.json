@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "name": "macos-clang-arm64",
+      "includePath": ["${workspaceFolder}/**", "${workspaceFolder}/include"],
+      "compilerPath": "/usr/bin/clang++",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "macos-clang-arm64",
+      "compilerArgs": ["-stdlib=libc++"]
+    }
+  ],
+  "version": 4
+}
